@@ -9,6 +9,25 @@
   <meta name="author" content="Themefisher">
   <meta name="generator" content="Hugo 0.65.3" />
 
+  <!-- Google Tag Manager -->
+  <script>var dataLayer = [];
+
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WQD88XW');</script>
+  <!-- End Google Tag Manager -->
+
+  <script>
+  function trackLienProduits(lien) {
+    window.dataLayer.push({
+      'event': 'Lien vers la page Produits',
+      'lien': lien,
+    });
+  }
+  </script>
+
   <!-- plugins -->
   
   <link rel="stylesheet" href="http://127.0.0.1:5500/public//plugins/bootstrap/bootstrap.min.css ">
@@ -28,6 +47,10 @@
   <link rel="icon" href="http://127.0.0.1:5500/public//images/favicon.png " type="image/x-icon">
 
 </head><body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=""https://www.googletagmanager.com/ns.html?id=GTM-WQD88XW""
+height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <!-- preloader start -->
 <div class="preloader">
   
@@ -94,7 +117,7 @@
         <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed dia</p>
         
         
-        <a href="products" class="btn btn-primary mr-3">All Products</a>
+        <a href="products" onclick="trackLienProduits('header')" class="btn btn-primary mr-3">All Products</a>
         
         
 
@@ -157,7 +180,11 @@
         <h2 class="text-white">Buy one Get One Free Taba Cream</h2>
         <p class="text-white">Available for limited time only. Grab one while you still can!</p>
         
+<<<<<<< HEAD
         <a href="http://127.0.0.1:5500/public//products" class="btn btn-light">All Products</a>
+=======
+        <a href="http://acme.local/products" onclick="trackLienProduits('banner_top')" class="btn btn-light">All Products</a>
+>>>>>>> upstream/master
         
       </div>
       <div class="col-lg-4 col-md-5 position-relative">
@@ -556,7 +583,11 @@
         <h2 class="text-white">Buy one Get One Free Taba Cream</h2>
         <p class="text-white">Available for limited time only. Grab one while you still can!</p>
         
+<<<<<<< HEAD
         <a href="http://127.0.0.1:5500/public//products" class="btn btn-light">All Products</a>
+=======
+        <a href="http://acme.local/products" onclick="trackLienProduits('banner_bottom')" class="btn btn-light">All Products</a>
+>>>>>>> upstream/master
         
       </div>
       <div class="col-lg-4 col-md-5 position-relative">
