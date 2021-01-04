@@ -3,96 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://127.0.0.1:8000/blog/</loc>
+    <loc>http://127.0.0.1:5500/public//blog/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/contact/</loc>
+    <loc>http://127.0.0.1:5500/public//contact/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/faq/</loc>
+    <loc>http://127.0.0.1:5500/public//faq/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/</loc>
+    <loc>http://127.0.0.1:5500/public//</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/blog/post-2/</loc>
+    <loc>http://127.0.0.1:5500/public//blog/post-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/blog/post-1/</loc>
+    <loc>http://127.0.0.1:5500/public//blog/post-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/</loc>
+    <loc>http://127.0.0.1:5500/public//products/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/taba-cream.1/</loc>
+    <loc>http://127.0.0.1:5500/public//products/taba-cream.1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/taba-cream.2/</loc>
+    <loc>http://127.0.0.1:5500/public//products/taba-cream.2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/taba-cream/</loc>
+    <loc>http://127.0.0.1:5500/public//products/taba-cream/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/taba-facewash.1/</loc>
+    <loc>http://127.0.0.1:5500/public//products/taba-facewash.1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/taba-facewash.2/</loc>
+    <loc>http://127.0.0.1:5500/public//products/taba-facewash.2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/taba-facewash/</loc>
+    <loc>http://127.0.0.1:5500/public//products/taba-facewash/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/taba-shampoo.1/</loc>
+    <loc>http://127.0.0.1:5500/public//products/taba-shampoo.1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/taba-shampoo.2/</loc>
+    <loc>http://127.0.0.1:5500/public//products/taba-shampoo.2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/products/taba-shampoo/</loc>
+    <loc>http://127.0.0.1:5500/public//products/taba-shampoo/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/terms-conditions/</loc>
+    <loc>http://127.0.0.1:5500/public//terms-conditions/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/categories/</loc>
+    <loc>http://127.0.0.1:5500/public//categories/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8000/tags/</loc>
+    <loc>http://127.0.0.1:5500/public//tags/</loc>
   </url>
   
 </urlset>

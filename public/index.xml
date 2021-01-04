@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hargo | Hugo Ecommerce Site</title>
-    <link>http://127.0.0.1:8000/</link>
+    <link>http://127.0.0.1:5500/public//</link>
     <description>Recent content on Hargo | Hugo Ecommerce Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="http://127.0.0.1:8000/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://127.0.0.1:5500/public//index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Human Gut Microbes Could Make Processed Foods Healthier</title>
-      <link>http://127.0.0.1:8000/blog/post-2/</link>
+      <link>http://127.0.0.1:5500/public//blog/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/blog/post-2/</guid>
+      <guid>http://127.0.0.1:5500/public//blog/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Lower Back Pain? Self-Administered Acupressure Could Help</title>
-      <link>http://127.0.0.1:8000/blog/post-1/</link>
+      <link>http://127.0.0.1:5500/public//blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/blog/post-1/</guid>
+      <guid>http://127.0.0.1:5500/public//blog/post-1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Cream</title>
-      <link>http://127.0.0.1:8000/products/taba-cream.1/</link>
+      <link>http://127.0.0.1:5500/public//products/taba-cream.1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/products/taba-cream.1/</guid>
+      <guid>http://127.0.0.1:5500/public//products/taba-cream.1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Cream</title>
-      <link>http://127.0.0.1:8000/products/taba-cream.2/</link>
+      <link>http://127.0.0.1:5500/public//products/taba-cream.2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/products/taba-cream.2/</guid>
+      <guid>http://127.0.0.1:5500/public//products/taba-cream.2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Cream</title>
-      <link>http://127.0.0.1:8000/products/taba-cream/</link>
+      <link>http://127.0.0.1:5500/public//products/taba-cream/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/products/taba-cream/</guid>
+      <guid>http://127.0.0.1:5500/public//products/taba-cream/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Facewash</title>
-      <link>http://127.0.0.1:8000/products/taba-facewash.1/</link>
+      <link>http://127.0.0.1:5500/public//products/taba-facewash.1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/products/taba-facewash.1/</guid>
+      <guid>http://127.0.0.1:5500/public//products/taba-facewash.1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Facewash</title>
-      <link>http://127.0.0.1:8000/products/taba-facewash.2/</link>
+      <link>http://127.0.0.1:5500/public//products/taba-facewash.2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/products/taba-facewash.2/</guid>
+      <guid>http://127.0.0.1:5500/public//products/taba-facewash.2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Facewash</title>
-      <link>http://127.0.0.1:8000/products/taba-facewash/</link>
+      <link>http://127.0.0.1:5500/public//products/taba-facewash/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/products/taba-facewash/</guid>
+      <guid>http://127.0.0.1:5500/public//products/taba-facewash/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Shampoo</title>
-      <link>http://127.0.0.1:8000/products/taba-shampoo.1/</link>
+      <link>http://127.0.0.1:5500/public//products/taba-shampoo.1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/products/taba-shampoo.1/</guid>
+      <guid>http://127.0.0.1:5500/public//products/taba-shampoo.1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Shampoo</title>
-      <link>http://127.0.0.1:8000/products/taba-shampoo.2/</link>
+      <link>http://127.0.0.1:5500/public//products/taba-shampoo.2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/products/taba-shampoo.2/</guid>
+      <guid>http://127.0.0.1:5500/public//products/taba-shampoo.2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Shampoo</title>
-      <link>http://127.0.0.1:8000/products/taba-shampoo/</link>
+      <link>http://127.0.0.1:5500/public//products/taba-shampoo/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://127.0.0.1:8000/products/taba-shampoo/</guid>
+      <guid>http://127.0.0.1:5500/public//products/taba-shampoo/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
